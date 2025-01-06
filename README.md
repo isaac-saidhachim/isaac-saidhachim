@@ -1,5 +1,5 @@
 - 👋 salut je suis said hachim isaac j'ai 23 ans, bienvenue sur mon github
-- 👀 je suis intéressée par la cybersécurité, j'aimerais devenir expert dans ce domaine
+- 👀 je suis intéressée par le développement logiciel, j'aimerais devenir expert dans ce domaine
 - 🌱 j'étudie actuellement à LA PLATEFORME
 - skills :  HTML ; CSS ; python
 <!---
